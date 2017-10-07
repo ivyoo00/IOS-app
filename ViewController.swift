@@ -5,7 +5,6 @@
 //  Created by 葛伽丽 on 10/5/17.
 //  Copyright © 2017 葛伽丽. All rights reserved.
 //
-
 import UIKit
 
 class ViewController: UIViewController, UITextFieldDelegate,
@@ -80,8 +79,4 @@ class ViewController: UIViewController, UITextFieldDelegate,
         present(imagePickerController, animated: true, completion: nil)
         
     }
-    
-}
 
-
-    
