@@ -82,11 +82,7 @@ class ViewController: UIViewController, UITextFieldDelegate,
         mealNameLabel.text = "Default Text"    }
 }
 
-
-    
-    //MARK: Actions
-    
-    
+        
 }
 
         
