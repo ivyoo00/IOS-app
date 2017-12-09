@@ -10,3 +10,9 @@ https://trello.com/b/ECXZUjxu/ios-app
 
 # Updating
 The original code in Master is not complete. So I have updated it.
+
+### Testing
+
+Test an Android chatting app by AWS.(Testing 1)
+
+Upload testing cases for an IOS FoodTracker app.(Testing 2)
