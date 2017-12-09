@@ -8,3 +8,5 @@ I have follow the instructions by: Build a Basic UI, Connect the UI to Code, Wor
 This is my Trello link for this app example:
 https://trello.com/b/ECXZUjxu/ios-app
 
+# Updating
+The original code in Master is not complete. So I have updated it.
