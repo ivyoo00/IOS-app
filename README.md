@@ -13,6 +13,6 @@ The original code in Master is not complete. So I have updated it.
 
 ### Testing
 
-Test an Android chatting app by AWS.(Testing 1)
+Test an Android chatting app by AWS.(Testing 1) I didn't do the test on my own IOS app, because for running tests, it needs to be signed as a team.
 
 Upload testing cases for an IOS FoodTracker app.(Testing 2)
